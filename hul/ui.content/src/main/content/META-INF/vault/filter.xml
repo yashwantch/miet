@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/hul" mode="merge"/>
+    <filter root="/content/hul" mode="merge"/>
+    <filter root="/content/dam/hul" mode="merge"/>
+    <filter root="/content/experience-fragments/hul" mode="merge"/>
+</workspaceFilter>

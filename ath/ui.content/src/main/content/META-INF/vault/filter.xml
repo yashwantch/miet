@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ath" mode="merge"/>
+    <filter root="/content/ath" mode="merge"/>
+    <filter root="/content/dam/ath" mode="merge"/>
+    <filter root="/content/experience-fragments/ath" mode="merge"/>
+</workspaceFilter>
